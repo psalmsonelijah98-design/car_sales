@@ -22,7 +22,7 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 
 ##Tools to Be Used
 
-## Microsoft Excel	Creating dataset.
+### Microsoft Excel	Creating dataset.
 
 + cleaning data, pivot tables, charts.
 
@@ -35,7 +35,7 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 + Conditional Formatting	Highlighting high and low sales values.
 - - -
 
-## SQL Data Querying
+### SQL Data Querying
 
  + Exploratory Data analysis
 
@@ -46,7 +46,7 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
  + Business Questions
 - - -
 
-## Python/Pandas	Cleaning or analyzing larger datasets
+### Python/Pandas	Cleaning or analyzing larger datasets
 
 + Data Cleaning
 
@@ -57,7 +57,7 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 + Chart Creation
 - - -
 
-## Microsoft Power Bi
+### Microsoft Power Bi
 
  + Dashboard Creation
 
