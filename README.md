@@ -3,7 +3,8 @@ This is a car sales report analysis, with it are the necessary insights on these
 ## Car Sales Data Analysis Report 
 > This is a car sales report
 > 
-> it covers all region 
+> it covers all region
+- - -
 
 ##PROJECT OVERVIEW
 
@@ -17,49 +18,51 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 - Red
 
 ## Data Source: kaggle.com
-
+- - -
 
 ##Tools to Be Used
 
-## 1. Microsoft Excel	Creating dataset.
+## Microsoft Excel	Creating dataset.
 
-I.cleaning data, pivot tables, charts.
++ cleaning data, pivot tables, charts.
 
-II.Pivot Tables	Summarizing sales by region, color, month, brand, etc.
++ Pivot Tables	Summarizing sales by region, color, month, brand, etc.
 
-III.Pivot Charts	Visualizing results from pivot tables.
++ Pivot Charts	Visualizing results from pivot tables.
 
-IV.Slicers	Filtering data interactively.
++ Slicers	Filtering data interactively.
 
-V.Conditional Formatting	Highlighting high and low sales values.
++ Conditional Formatting	Highlighting high and low sales values.
+- - -
 
+## SQL Data Querying
 
-## 2. SQL Data Querying
+ + Exploratory Data analysis
 
-I. Exploratory Data analysis
+ + Filtering
 
-II. Filtering
+ + Grouping Ans Aggregation
 
-III. Grouping Ans Aggregation
+ + Business Questions
+- - -
 
-IV. Business Questions
+## Python/Pandas	Cleaning or analyzing larger datasets
 
-## 3. Python/Pandas	Cleaning or analyzing larger datasets
++ Data Cleaning
 
-I. Data Cleaning
++ Exploratory Data Analysis
 
-II. Exploratory Data Analysis
++ Missing Values Checks
 
-III. Missing Values Checks
++ Chart Creation
+- - -
 
-IV. Chart Creation
+## Microsoft Power Bi
 
-## 4. Microsoft Power Bi
+ + Dashboard Creation
 
-I. Dashboard Creation
+ + Data Modelling
 
-II. Data Modelling
+ + Dax Measures
 
-III. Dax Measures
-
-IV. Visualizations
+ + Visualizations
