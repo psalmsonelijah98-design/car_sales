@@ -30,10 +30,6 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 | C_CND_000003|	1/2/2022|	Gianna|	Male|	1035000|	Capitol KIA|	Cadillac|	Eldorado|	Overhead Camshaft|	Manual|	Red|	31500|	38701-8047|	Passenger|	729879|	Greenville|
 
 
-
-
-
-
 ##Tools to Be Used
 
 ### Microsoft Excel	Creating dataset.
