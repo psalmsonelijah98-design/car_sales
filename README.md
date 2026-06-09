@@ -21,7 +21,7 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 ## Data Source: kaggle.com
 - - -
 
-##Data Outlay
+## Data Outlay
 
 Car_id	Date	Customer Name	Gender	Annual Income	Dealer_Name	Company	Model	Engine	Transmission	Color	Price ($)	Dealer_No 	Body Style	Phone	Dealer_Region
 
