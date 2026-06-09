@@ -23,8 +23,8 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 
 ## Data Outlay
 
-| Car_id| Date| Customer Name| Gender| Annual Income| Dealer_Name| Company	Model|	Engine|	Transmission|	Color	Price ($)|	Dealer_No| 	Body Style|	Phone|	Dealer_Region|
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
+| Car_id| Date| Customer Name| Gender| Annual Income| Dealer_Name| Company|	Model|	Engine|	Transmission|	Color|	Price ($)|	Dealer_No| 	Body Style|	Phone|	Dealer_Region|
+|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
 
 |C_CND_000001|	1/2/2022|	Geraldine|	Male|	13500|	Buddy Storbeck's Diesel Service Inc|	Ford|	Expedition|	DoubleÃ‚Â Overhead Camshaft|	Auto|	Black|	26000|	06457-3834|	SUV|	8264678|	Middletown|
 
