@@ -44,7 +44,7 @@ III. Grouping Ans Aggregation
 
 IV. Business Questions
 
-## 3.Python/Pandas	Cleaning or analyzing larger datasets
+## 3. Python/Pandas	Cleaning or analyzing larger datasets
 
 I. Data Cleaning
 
@@ -53,3 +53,13 @@ II. Exploratory Data Analysis
 III. Missing Values Checks
 
 IV. Chart Creation
+
+## 4. Microsoft Power Bi
+
+I. Dashboard Creation
+
+II. Data Modelling
+
+III. Dax Measures
+
+IV. Visualizations
