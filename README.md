@@ -15,3 +15,28 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 + Black
 
 - Red
+
+## Data Source: kaggle.com
+
+
+##Tools to Be Used
+
+## 1. Microsoft Excel	Creating dataset. 
+I.cleaning data, pivot tables, charts.
+II.Pivot Tables	Summarizing sales by region, color, month, brand, etc.
+III.Pivot Charts	Visualizing results from pivot tables.
+IV.Slicers	Filtering data interactively.
+V.Conditional Formatting	Highlighting high and low sales values.
+
+
+## 2. SQL Data Querying
+I. Exploratory Data analysis
+II. Filtering
+III. Grouping Ans Aggregation
+IV. Business Questions
+
+## 3.Python/Pandas	Cleaning or analyzing larger datasets
+I. Data Cleaning
+II. Exploratory Data Analysis
+III. Missing Values Checks
+IV. Chart Creation
