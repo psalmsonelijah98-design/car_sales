@@ -51,7 +51,7 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 
  + Filtering
 
- + Grouping Ans Aggregation
+ + Grouping And Aggregation
 
  + Business Questions
 - - -
