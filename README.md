@@ -12,9 +12,7 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 
 ## Color of Vechicles
 - Pale White
-
 + Black
-
 - Red
 
 
@@ -33,46 +31,29 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 ##Tools to Be Used
 
 ### Microsoft Excel	Creating dataset.
-
 + cleaning data, pivot tables, charts.
-
 + Pivot Tables	Summarizing sales by region, color, month, brand, etc.
-
 + Pivot Charts	Visualizing results from pivot tables.
-
 + Slicers	Filtering data interactively.
-
 + Conditional Formatting	Highlighting high and low sales values.
 - - -
 
 ### SQL Data Querying
-
  + Exploratory Data analysis
-
  + Filtering
-
  + Grouping And Aggregation
-
  + Business Questions
 - - -
 
 ### Python/Pandas	Cleaning or analyzing larger datasets
-
 + Data Cleaning
-
 + Exploratory Data Analysis
-
 + Missing Values Checks
-
 + Chart Creation
 - - -
 
 ### Microsoft Power Bi
-
  + Dashboard Creation
-
  + Data Modelling
-
  + Dax Measures
-
  + Visualizations
