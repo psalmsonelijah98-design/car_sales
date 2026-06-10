@@ -59,6 +59,7 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
  + Visualizations
 
 ~~~sql
+--- Selecting Black car sold---
 select * from new_car_dataset
 where color = 'Black';
 ~~~
