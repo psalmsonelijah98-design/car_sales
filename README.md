@@ -73,3 +73,9 @@ order by 'Total sales' desc;
 ~~~
 
 ~~~sql
+--- Calculate Total Revenue By Dealer Region---
+select dealer_region, sum(price) as 'Total Revenue'
+from new_car_dataset
+group by dealer_region
+order by 'total revenue' desc;
+~~~
