@@ -63,3 +63,13 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
 select * from new_car_dataset
 where color = 'Black';
 ~~~
+
+~~~sql
+---Total Sales Query Sort By Model---
+select model, count(car_id) as 'Total Sales'
+from new_car_dataset
+group by model
+order by 'Total sales' desc;
+~~~
+
+~~~sql
