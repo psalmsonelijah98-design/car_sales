@@ -83,4 +83,4 @@ order by 'total revenue' desc;
 ~~~
 
 ### Social Media Link
-[To View My LinkedIn Page, Click Here](www.linkedin.com/in/elijah-samson-71bb75423)
++ [To View My LinkedIn Page, Click Here](linkedin.com/in/elijah-samson-71bb75423)
