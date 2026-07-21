@@ -85,3 +85,6 @@ order by 'total revenue' desc;
 ## Social Media Link
 ### LinkedIn
 + [To view my linkedIn Page, click Here](https://www.linkedin.com/in/elijah-samson-71bb75423)
+
+## + Visualization
+### Power BI dashboard
