@@ -58,6 +58,8 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
  + Dax Measures
  + Visualizations
 
+### Sql Queries
+
 ~~~sql
 --- Selecting Black car sold---
 select * from new_car_dataset
