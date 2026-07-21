@@ -58,6 +58,7 @@ __This project focuses on creating and analyzing a car sales dataset to uncover 
  + Dax Measures
  + Visualizations
 
+----
 ### Sql Queries
 
 ~~~sql
@@ -82,9 +83,11 @@ group by dealer_region
 order by 'total revenue' desc;
 ~~~
 
+----
 ## Social Media Link
 ### LinkedIn
 + [To view my linkedIn Page, click Here](https://www.linkedin.com/in/elijah-samson-71bb75423)
 
+----
 ## + Visualization
 ### Power BI dashboard
