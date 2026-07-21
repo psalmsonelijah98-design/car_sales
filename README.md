@@ -91,3 +91,6 @@ order by 'total revenue' desc;
 ----
 ## + Visualization
 ### Power BI dashboard
+
+<img width="771" height="442" alt="New Car Sales DashBoard 2026" src="https://github.com/user-attachments/assets/869187f0-1cd7-4b39-ad79-196d91f38fc4" />
+
