@@ -82,5 +82,6 @@ group by dealer_region
 order by 'total revenue' desc;
 ~~~
 
-### Social Media Link
-+ [To View My LinkedIn Page, Click Here](linkedin.com/in/elijah-samson-71bb75423)
+## Social Media Link
+### LinkedIn
++ [To view my linkedIn Page, click Here](https://www.linkedin.com/in/elijah-samson-71bb75423)
